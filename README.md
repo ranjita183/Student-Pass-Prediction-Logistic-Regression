@@ -136,12 +136,12 @@ Model Evaluation
 ---
 ## 👨‍💻 Author
 
-**Shivanand Hanchinal**
+**Ranjita K Bagali**
 
 Electronics & Communication Engineering Student
 
-- GitHub: https://github.com/ShivuAH
-- LinkedIn: https://linkedin.com/in/shivuah
+- GitHub: https://github.com/ranjita183
+
 
 
 ---
